@@ -1,0 +1,22 @@
+body {
+  background-color: DarkRed;
+}
+
+h1 {
+  color: LightGoldenRodYellow;
+  font-size: 40px;
+}
+
+body {
+  text-align: center;
+}
+
+h2 {
+  color: LightYellow;
+  font-size: 30px;
+}
+
+p {
+  color: WhiteSmoke;
+  font-size 24;
+}
